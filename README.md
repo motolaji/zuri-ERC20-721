@@ -1,4 +1,4 @@
-# zuri-ERC20-721
+# Zuri-ERC20-721
 
 
 # ERC20 CONTRACT ADDRESS: https://rinkeby.etherscan.io/address/0x4f7302ad53128dfe1dbed8e5f2c77514db0e2a25#code
